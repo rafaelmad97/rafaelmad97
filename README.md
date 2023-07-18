@@ -12,11 +12,10 @@ Me gusta leer muchos proyectos hechos en hardware libre, la impresión 3d y el h
 
 ## Tecnologias que he aprendido
 
-[Typescript]
-[Javascrip]
-[ReactJS]
-[MaterialUI](https://mui.com/static/icons/192x192.png)
-[Typescript]
-[Typescript]
+Typescript, Javascript, ReactJS, MaterialUI, Typescript, Typescript, Java, C++ , C#, MYSQL, SQL Server
+
+#Proximamente
+
+Python, Flutter, Dart, Kotlin
 
 
