@@ -14,7 +14,7 @@ Me gusta leer muchos proyectos hechos en hardware libre, la impresión 3d y el h
 
 Typescript, Javascript, ReactJS, MaterialUI, Typescript, Typescript, Java, C++ , C#, MYSQL, SQL Server
 
-#Proximamente
+# Proximamente
 
 Python, Flutter, Dart, Kotlin
 
