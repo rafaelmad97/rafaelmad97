@@ -16,6 +16,6 @@ Typescript, Javascript, ReactJS, MaterialUI, Typescript, Typescript, Java, C++ ,
 
 # Proximamente
 
-Python, Flutter, Dart, Kotlin, Swift
+Flutter, Dart, Kotlin, Swift
 
 
