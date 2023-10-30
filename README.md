@@ -12,7 +12,7 @@ Me gusta leer muchos proyectos hechos en hardware libre, la impresión 3d y el h
 
 ## Tecnologias que he aprendido
 
-# Lenguajes de Programación
+### Lenguajes de Programación
 
 Typescript & Javascript 
 Java
@@ -20,7 +20,7 @@ C++
 C#
 Python
 
-# Frameworks
+### Frameworks
 
 React Native
 ReactJS
@@ -29,7 +29,7 @@ Node JS
 Flask
 Entity Framework
 
-# Bases de datos
+### Bases de datos
 
 MYSQL 
 SQL Server
