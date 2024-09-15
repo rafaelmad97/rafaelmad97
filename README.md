@@ -1,7 +1,6 @@
 ### Bienvenidos👋
 
-## Soy Ingeniero de Sistemas 
-### Especialista en Ingenieria de Software
+## Soy Ingeniero de Sistemas - Especialista en Ingenieria de Software
 
 - 🔭 Actualmente trabajo en proyectos FullStack,
 - 🌱 Estudio el Flutter pata la integracion de mis trabajos en aplicaciones moviles.
